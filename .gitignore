@@ -1,0 +1,5 @@
+.vscode/
+.sfdx/
+.sf/
+*.log
+.DS_Store
